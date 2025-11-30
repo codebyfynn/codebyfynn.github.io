@@ -11,6 +11,9 @@ nav {
   font-family: Sans-serif,	Arial;
 }
 
+footer {
+  color: #666363;
+
 html {
   background-color:#222625;
   color: #FFFFFF;
@@ -23,6 +26,7 @@ html {
 	width: 100%;
 	margin: 0px;
 }
+
 
 
 

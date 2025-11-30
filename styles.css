@@ -16,10 +16,6 @@ html {
   color: #FFFFFF;
 }
 
-footer {
- color: #666363;
-}
-
 #absatz {
 	border: none;
 	height: 4px;
@@ -27,6 +23,7 @@ footer {
 	width: 100%;
 	margin: 0px;
 }
+
 
 
 

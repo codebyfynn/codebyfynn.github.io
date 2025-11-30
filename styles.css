@@ -1,0 +1,28 @@
+header {
+	color: #FFFFFF;
+	text-align: center;
+	background-color:#222625 ;
+	
+}
+
+nav {
+  color: #FFFFFF;
+  text-align: center;
+  font-family: Sans-serif,	Arial;
+}
+
+html {
+  background-color:#222625;
+  color: #FFFFFF;
+}
+
+footer {
+ color: #DB750D;
+}
+
+#mailto {
+  color: #222625;
+}
+
+#collab { 
+ color: #DB8C0D;

@@ -13,9 +13,10 @@ nav {
 
 footer {
   color: #666363;
+  background-color: #222625
 
 html {
-  background-color:#222625;
+  background-color: #222625;
   color: #FFFFFF;
 }
 
@@ -26,6 +27,7 @@ html {
 	width: 100%;
 	margin: 0px;
 }
+
 
 
 

@@ -14,6 +14,18 @@
  <h1>Wilkommen bei CodeByFynn🚀</h1>
 
  <p id="datum"</p>
+
+  <script>
+    const heute = new Date();
+    const formatiert = heute.toLocaleString("de_DE", {
+     weekday: "long",
+     year: "numeric",
+     month: "long"
+     day: "numeric"
+   });
+   
+    document.getElementById("datum").innerText = formatiert;
+  </script>
  
 
 
@@ -27,5 +39,6 @@
   </header>
  </footer>
 </html>
+
 
 

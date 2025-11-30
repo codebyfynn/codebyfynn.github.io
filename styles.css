@@ -20,9 +20,10 @@ footer {
  color: #DB750D;
 }
 
-#mailto {
-  color: #222625;
+#absatz {
+	border: none;
+	height: 2px;
+	background-color: red;
+	width: 50%;
+	margin: 20px auto;
 }
-
-#collab { 
- color: #DB8C0D;
